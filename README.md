@@ -4,7 +4,7 @@
 
 ## About
 
-Like all the code I write emphasis has been put on performances especially when working with larger datasets, currently all cmdlets in the module are used in a mid environment of circa 20k users with great performances but there is always room for improvement!
+Like all the code I write emphasis has been put on performances especially when working with larger datasets, currently all cmdlets in the module are used in an environment of circa 20k users with great performances but there is always room for improvement so if you spot a bug, a performance issue or simply think something can be enhanced do not hesitate to let me know.
 
 ## Collaborate
 
