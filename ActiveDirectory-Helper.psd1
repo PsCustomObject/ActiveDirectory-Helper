@@ -76,7 +76,12 @@
 	NestedModules = @()
 	
 	# Functions to export from this module
-	FunctionsToExport = @('Convert-ADExpirationDate') #For performance, list functions explicitly
+	FunctionsToExport = @(
+        'Convert-ADExpirationDate',
+        'Get-ExpiringUsers',
+        'Get-ExpiringUsersReport',
+        'Get-AdServer'
+    ) #For performance, list functions explicitly
 	
 	# Cmdlets to export from this module
 	CmdletsToExport = '*' 
