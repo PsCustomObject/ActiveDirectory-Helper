@@ -80,7 +80,13 @@
         'Convert-ADExpirationDate',
         'Get-ExpiringUsers',
         'Get-ExpiringUsersReport',
-        'Get-AdServer'
+        'Get-AdServer',
+        'Test-IsUniqueAddress',
+        'Test-IsEmail',
+        'Test-IsGuid',
+        'Format-Base64ToGuid',
+        'Format-GuidToOctectString',
+        'Format-GuidToBase64'
     ) #For performance, list functions explicitly
 	
 	# Cmdlets to export from this module
